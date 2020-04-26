@@ -4,6 +4,7 @@
 #include "arrays/max_consecutive_ones.h"
 #include "arrays/even_num_digits.h"
 #include "arrays/squares_sorted_array.h"
+#include "arrays/duplicate_zeros.h"
 
 
 int main() {
@@ -32,6 +33,14 @@ int main() {
   auto ret_04 = sortedSquares2Pointers(v_input_04);
   std::cout << "arrays | 04 | sortedSquares2Pointers | res = ";
   PrintVector(ret_04);
+
+  ///  05: arrays
+  /// Duplicate Zeros (in-place)
+  std::vector<int> v_input_05 = {3, 1, 2, 0, 0, 0, 0, 3};
+  DuplicateZero(v_input_05);
+  std::cout << "arrays | 05 | Duplicate Zeros | res = ";
+  PrintVector(v_input_05);
+
 
   return 0;
 }
