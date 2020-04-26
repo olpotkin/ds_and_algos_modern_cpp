@@ -6,7 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(
         codebase
         main.cpp
+        utils/utils.h
         arrays/max_consecutive_ones.h
         arrays/even_num_digits.h
-#        arrays/squares_sorted_array.h
-        utils/utils.h)
+        arrays/squares_sorted_array.h
+        )
