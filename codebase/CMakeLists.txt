@@ -10,4 +10,5 @@ add_executable(
         arrays/max_consecutive_ones.h
         arrays/even_num_digits.h
         arrays/squares_sorted_array.h
-        arrays/duplicate_zeros.h)
+        arrays/duplicate_zeros.h
+        arrays/merge_sorted_array.h)
