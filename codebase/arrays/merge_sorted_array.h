@@ -13,15 +13,6 @@ void mergeSortedArray(
   std::vector<int>& nums2,
   int               n) {
 
-  //if (n == 0) {
-  //  return;
-  //}
-
-  //if (m == 0) {
-  //  nums1 = nums2;
-  //  return;
-  //}
-
   int p1 = m - 1;     // Index of the last VALID element of the 1-st array
   int p2 = n - 1;     // Index of the last element of the 2-nd array
   int p  = m + n - 1; // Index of the last element of the 1-st (result) array
