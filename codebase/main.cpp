@@ -6,6 +6,7 @@
 #include "arrays/squares_sorted_array.h"
 #include "arrays/duplicate_zeros.h"
 #include "arrays/merge_sorted_array.h"
+#include "arrays/remove_element.h"
 
 
 int main() {
@@ -50,6 +51,12 @@ int main() {
   std::cout << "arrays | 06 | MergeSortedArray | res = ";
   PrintVector(v_input_06_1);
 
+  /// 07: arrays
+  /// Remove Elements from Array (in-place)
+  std::vector<int> v_input_07 = {1, 2, 2, 1};
+  const int num_to_remove_07 = 2;
+  auto ret_07 = removeElement(v_input_07, num_to_remove_07);
+  std::cout << "arrays | 07 | removeElements (new size of vector) | res = " << ret_07 << std::endl;
 
   return 0;
 }

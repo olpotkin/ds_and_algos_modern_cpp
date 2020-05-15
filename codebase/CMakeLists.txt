@@ -11,4 +11,5 @@ add_executable(
         arrays/even_num_digits.h
         arrays/squares_sorted_array.h
         arrays/duplicate_zeros.h
-        arrays/merge_sorted_array.h)
+        arrays/merge_sorted_array.h
+        arrays/remove_element.h)

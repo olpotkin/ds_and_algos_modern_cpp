@@ -8,4 +8,5 @@ Data Structures and Algorithms with Modern C++
 - Squares of a Sorted Array - [Link](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
 - Duplicate Zeros - [Link](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
 - Merge Sorted Array - [Link](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/)
+- Remove Elements from Array - [Link](https://leetcode.com/problems/remove-element/)
 - TBD
