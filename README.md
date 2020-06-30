@@ -14,5 +14,5 @@ Data Structures and Algorithms with Modern C++
 ### Sort
 - Selection Sort - [Animation](http://www.cs.armstrong.edu/liang/animation/web/SelectionSort.html)
 - Insertion Sort - [Animation](http://cs.armstrong.edu/liang/animation/web/InsertionSort.html)
-- 
+- Shell Sort - [Visualization](https://www.w3resource.com/ODSA/AV/Sorting/shellsortAV.html)
 - 
