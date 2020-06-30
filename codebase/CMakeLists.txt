@@ -12,4 +12,8 @@ add_executable(
         arrays/squares_sorted_array.h
         arrays/duplicate_zeros.h
         arrays/merge_sorted_array.h
-        arrays/remove_element.h)
+        arrays/remove_element.h
+        sort/selection_sort.h
+        sort/insertion_sort.h
+        sort/shell_sort.h
+        sort/merge_sort.h)
