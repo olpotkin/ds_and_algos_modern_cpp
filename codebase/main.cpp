@@ -13,6 +13,7 @@
 #include "sort/insertion_sort.h"
 #include "sort/shell_sort.h"
 #include "sort/merge_sort.h"
+#include "sort/quick_sort.h"
 
 
 int main() {
@@ -91,6 +92,13 @@ int main() {
   MergeSort(v_input_11);
   std::cout << "sort | 11 | Merge Sort | res = ";
   PrintVector(v_input_11);
+
+  /// 12: sort
+  /// Quick Sort
+  std::vector<int> v_input_12 = {6, 5, 4, 3, 8, 9, 123, 0, 12, 6, 1, 3, 7};
+  QuickSort(v_input_12);
+  std::cout << "sort | 12 | Quick Sort | res = ";
+  PrintVector(v_input_12);
 
   return 0;
 }

@@ -12,8 +12,11 @@ Data Structures and Algorithms with Modern C++
 - TBD
 
 ### Sort
-- Selection Sort - [Animation](http://www.cs.armstrong.edu/liang/animation/web/SelectionSort.html)
-- Insertion Sort - [Animation](http://cs.armstrong.edu/liang/animation/web/InsertionSort.html)
-- Shell Sort - [Visualization](https://www.w3resource.com/ODSA/AV/Sorting/shellsortAV.html)
-- Merge Sort - [Visualization](https://www.hackerearth.com/de/practice/algorithms/sorting/merge-sort/visualize/)
-- 
+- Selection Sort (Iterative) - [Animation](http://www.cs.armstrong.edu/liang/animation/web/SelectionSort.html)
+- Insertion Sort (Iterative) - [Animation](http://cs.armstrong.edu/liang/animation/web/InsertionSort.html)
+- Shell Sort (Iterative) - [Visualization](https://www.w3resource.com/ODSA/AV/Sorting/shellsortAV.html)
+- Merge Sort (Iterative) - [Visualization](https://www.hackerearth.com/de/practice/algorithms/sorting/merge-sort/visualize/)
+- Quick Sort (Recursive and Iterative) - [Visualization](https://www.hackerearth.com/de/practice/algorithms/sorting/quick-sort/visualize/)
+
+## Sort Application
+- Selection: Given an array of N items, find a K-th smallest item (Partitioning from Selection Sort is used).
