@@ -14,6 +14,7 @@
 #include "sort/shell_sort.h"
 #include "sort/merge_sort.h"
 #include "sort/quick_sort.h"
+#include "sort/n-smallest-item.h"
 
 
 int main() {
@@ -99,6 +100,13 @@ int main() {
   QuickSort(v_input_12);
   std::cout << "sort | 12 | Quick Sort | res = ";
   PrintVector(v_input_12);
+
+  /// 13: sort
+  /// Selection: N-th smallest item
+  std::vector<int> v_input_13 = {101, 5, 3, 4, 7, 6, 1, 0, 2, 100};
+  auto ret_13 = Selection(v_input_13, 5);
+  std::cout << "sort | 13 | Selection (N-th smallest) | res = " << ret_13 << std::endl;
+
 
   return 0;
 }

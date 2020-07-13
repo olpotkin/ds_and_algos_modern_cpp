@@ -17,4 +17,5 @@ add_executable(
         sort/insertion_sort.h
         sort/shell_sort.h
         sort/merge_sort.h
-        sort/quick_sort.h)
+        sort/quick_sort.h
+        sort/n-smallest-item.h)
