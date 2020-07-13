@@ -1,3 +1,5 @@
+[image1]: ./docs/images/sort_summary.png
+
 # Data Structures and Algorithms with Modern C++
 
 ## Contents
@@ -11,6 +13,9 @@
 * TBD
 
 ### Sort
+
+![Sorting Summary][image1]
+
 * Selection Sort (Iterative) - [Animation](http://www.cs.armstrong.edu/liang/animation/web/SelectionSort.html)
   * _Selection: Given an array of N items, find a K-th smallest item_ (Partitioning from Selection Sort is used).
 * Insertion Sort (Iterative) - [Animation](http://cs.armstrong.edu/liang/animation/web/InsertionSort.html)
