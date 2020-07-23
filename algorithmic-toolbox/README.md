@@ -9,6 +9,12 @@
 
 ## Build instructions
 
+* clang
 ```
-clang++ -std=c++11 -stdlib=libc++ -Weverything file_name.cpp 
+clang++ -std=c++11 -stdlib=libc++ -Weverything file_name.cpp
+```
+
+* g++
+```
+g++ -pipe -O2 -std=c ++14 file_name.cpp -lm
 ```
