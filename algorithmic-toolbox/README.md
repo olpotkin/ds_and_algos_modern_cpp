@@ -3,18 +3,32 @@
 
 ## Contents
 
-* Week 1
-* Week 2
+### Section 1
+
+* Sum of Two Digits (_Compute the sum of two single digit numbers_)
+* Maximum Pairwise Product (_Find the maximum product of two distinct numbers in a sequence of non-negative integers_)
+
+### Section 2
+
 * TBD
+
+### Section 3: Greedy algorithms
+
+* Money Change (_Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10_).
+* TBD
+
+### TBD
 
 ## Build instructions
 
 * clang
-```
+
+```bash
 clang++ -std=c++11 -stdlib=libc++ -Weverything file_name.cpp
 ```
 
 * g++
-```
+
+```bash
 g++ -pipe -O2 -std=c ++14 file_name.cpp -lm
 ```
