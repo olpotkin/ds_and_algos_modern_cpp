@@ -15,7 +15,7 @@
 ### Section 3: Greedy algorithms
 
 * Money Change (_Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10_).
-* TBD
+* Maximum Value of the Loot (_fractional knapsack problem_)
 
 ### TBD
 
