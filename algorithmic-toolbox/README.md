@@ -16,6 +16,8 @@
 
 * Money Change (_Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10_).
 * Maximum Value of the Loot (_fractional knapsack problem_)
+* Car Fueling (_Calculate the minimum number of refills needed to reach destination with given capacity of the fuel tank and list of fuel stations_)
+* TBD
 
 ### TBD
 
