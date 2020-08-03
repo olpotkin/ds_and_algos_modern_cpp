@@ -19,6 +19,7 @@
 * Car Fueling (_Calculate the minimum number of refills needed to reach destination with given capacity of the fuel tank and list of fuel stations_)
 * Maximum Advertisement Revenue (_Maximal sum of dot products_)
 * Collecting Signatures (_Covering Segments by Points_)
+* Maximum Number of Prizes (_Different Summands_)
 * TBD
 
 ### TBD
