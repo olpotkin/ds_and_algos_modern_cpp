@@ -20,7 +20,7 @@
 * Maximum Advertisement Revenue (_Maximal sum of dot products_)
 * Collecting Signatures (_Covering Segments by Points_)
 * Maximum Number of Prizes (_Different Summands_)
-* TBD
+* Maximum Salary (_Compose a largest number from given numbers (>1 digit possible)_)
 
 ### TBD
 
