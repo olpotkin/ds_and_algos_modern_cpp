@@ -6,42 +6,71 @@
 ### Section 1: Intro
 
 * [Sum of Two Digits](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week1/1_sum_of_two_digits/APlusB.cpp)
+
    Compute the sum of two single digit numbers.
+
 * [Maximum Pairwise Product](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week1/2_maximum_pairwise_product/max_pairwise_product.cpp)
+
    Find the maximum product of two distinct numbers in a sequence of non-negative integers.
 
 ### Section 2: Algorithmic Warm-up
 
 * [Fibonacci Number](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/1_fibonacci_number/fibonacci.cpp)
+
    Given an integer n, find the n-th Fibonacci number F_n.
+
 * [Last Digit of a Large Fibonacci Number](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp)
+
    Find the last digit of n-th Fibonacci number.
+
 * [Greatest Common Divisor](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/3_greatest_common_divisor/gcd.cpp)
-   The greatest common divisor GCD(a, b) of two non-negative integers a and b (which are not both equal to 0) is the greatest integer d that divides both a and b.
+
+   The **greatest common divisor** GCD(a, b) of two non-negative integers a and b (which are not both equal to 0) is the greatest integer d that divides both a and b.
+
 * [Least Common Multiple](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/4_least_common_multiple/lcm.cpp)
-   The least common multiple of two positive integers a and b is the least positive integer m that is divisible by both a and b.
+
+   The **least common multiple** of two positive integers a and b is the least positive integer m that is divisible by both a and b.
+
 * [Fibonacci huge](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/5_fibonacci_number_again/fibonacci_huge.cpp)
+
    Given two integers n and m, output F(n) mod m (that is, the remainder of F(n) when divided by m).
+
 * [Last Digit of the Sum of Fibonacci Numbers](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp)
+
 * [Last digit of a Partial Sum of Fibonacci Numbers](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/7_last_digit_of_the_fibonacci_partial_sum/fibonacci_partial_sum.cpp)
+
    Given two non-negative integers m and n, where m <= n, find the last digit of the sum F_m + F_m+1 + ... + F_n.
+
 * [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp)
 
 ### Section 3: Greedy algorithms
 
 * [Money Change](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/1_money_change/change.cpp)
+
    Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10.
+
 * [Maximum Value of the Loot](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/2_maximum_value_of_the_loot/fractional_knapsack.cpp)
+
    Fractional knapsack problem.
+
 * [Car Fueling](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/3_car_fueling/car_fueling.cpp)
+
    Calculate the minimum number of refills needed to reach destination with given capacity of the fuel tank and list of fuel stations.
+
 * [Maximum Advertisement Revenue](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/4_maximum_advertisement_revenue/dot_product.cpp)
+
    Maximal sum of dot products.
+
 * [Collecting Signatures](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/5_collecting_signatures/covering_segments.cpp)
+
    Covering Segments by Points.
+
 * [Maximum Number of Prizes](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/6_maximum_number_of_prizes/different_summands.cpp)
+
    Different Summands.
+
 * [Maximum Salary](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/7_maximum_salary/largest_number.cpp)
+
    Compose a largest number from given numbers (1+ digit possible).
 
 ### Section 4: Divide-and-Conquer
