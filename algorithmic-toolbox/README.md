@@ -60,7 +60,9 @@
 
 ### Section 4: Divide-and-Conquer
 
-* Binary Search
+* [Binary Search](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/1_binary_search/binary_search.cpp)
+* Majority Element:
+   Check whether an input sequence contains a majority element (element that appears strictly more than n/2 times).
 * TBD
 
 ### TBD
