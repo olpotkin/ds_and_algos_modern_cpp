@@ -61,8 +61,10 @@
 ### Section 4: Divide-and-Conquer
 
 * [Binary Search](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/1_binary_search/binary_search.cpp)
-* Majority Element:
+* [Majority Element](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/2_majority_element/majority_element.cpp):
    Check whether an input sequence contains a majority element (element that appears strictly more than n/2 times).
+* Improving Quick Sort:
+   Replace a 2-way partition with a 3-way partition, so that it works fast even on sequences containing many equal elements
 * TBD
 
 ### TBD
