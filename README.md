@@ -7,17 +7,11 @@
 ### Arrays
 
 * Max Consecutive Ones ([Leetcode](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/))
-
 * Find Numbers with Even Number of Digits ([Leetcode](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/))
-
 * Squares of a Sorted Array ([Leetcode](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/))
-
 * Duplicate Zeros ([Leetcode](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/))
-
 * Merge Sorted Array ([Leetcode](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/))
-
 * Remove Elements from Array ([Leetcode](https://leetcode.com/problems/remove-element/))
-
 * TBD
 
 ### Sort
