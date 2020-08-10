@@ -68,8 +68,11 @@
 * [Improving Quick Sort](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/3_improving_quicksort/sorting.cpp):
    Replace a 2-way partition with a 3-way partition, so that it works fast even on sequences containing many equal elements
 
-* Number of Inversions:
+* [Number of Inversions](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/4_number_of_inversions/inversions.cpp):
    Count the number of inversions of a given sequence.
+
+* Points and Segments:
+   Compute, for each point, the number of segments that contain this point.
 
 * TBD
 
