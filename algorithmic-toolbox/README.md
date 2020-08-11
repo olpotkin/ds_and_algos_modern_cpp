@@ -71,12 +71,16 @@
 * [Number of Inversions](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/4_number_of_inversions/inversions.cpp):
    Count the number of inversions of a given sequence.
 
-* Points and Segments:
+* [Points and Segments](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/5_organizing_a_lottery/points_and_segments.cpp):
    Compute, for each point, the number of segments that contain this point.
+
+### Dynamic Programming I
 
 * TBD
 
-### TBD
+### Dynamic Programming II
+
+* TBD
 
 ## Build instructions
 
