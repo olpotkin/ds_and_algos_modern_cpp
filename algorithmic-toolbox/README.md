@@ -76,6 +76,15 @@
 
 ### Dynamic Programming I
 
+* Theory:
+  * [Dynamic Programming](https://www.dropbox.com/s/qxzh146jd72188d/dynprog.pdf) slides;
+  * [Making Change Visualisation](https://www.cs.usfca.edu/~galles/visualization/DPChange.html);
+  * [Edit distance calculator](http://www.let.rug.nl/kleiweg/lev/) by Peter Kleiweg;
+  * [Longest common subsequence](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html) by David Galles (note the longest common subsequence problem is a special case of the edit distance problem where we allow insertions and deletions only).
+
+* Money Change:
+   Dynamic Programming Approach: Provide hhe minimum number of coins with denominations 1, 3, 4 that changes money.
+
 * TBD
 
 ### Dynamic Programming II
