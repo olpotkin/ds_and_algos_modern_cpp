@@ -85,8 +85,11 @@
 * [Money Change](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/1_money_change_again/change_dp.cpp):
    Dynamic Programming Approach: Provide hhe minimum number of coins with denominations 1, 3, 4 that changes money.
 
-* Primitive Calculator:
+* [Primitive Calculator](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/2_primitive_calculator/primitive_calculator.cpp):
    Given a positive integer n, find the minimum number of operations needed to obtain the number n starting from the number 1.
+
+* Edit Distance:
+   The edit distance between two strings is the minimum number of operations (insertions, deletions, and substitutions of symbols) to transform one string into another.
 
 * TBD
 
