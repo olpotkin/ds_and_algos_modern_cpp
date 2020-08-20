@@ -88,8 +88,11 @@
 * [Primitive Calculator](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/2_primitive_calculator/primitive_calculator.cpp):
    Given a positive integer n, find the minimum number of operations needed to obtain the number n starting from the number 1.
 
-* Edit Distance:
+* [Edit Distance](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/3_edit_distance/edit_distance.cpp):
    The edit distance between two strings is the minimum number of operations (insertions, deletions, and substitutions of symbols) to transform one string into another.
+
+* Longest Common Subsequence of Two Sequences:
+   Compute the length of a longest common subsequence of two sequences.
 
 * TBD
 
