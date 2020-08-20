@@ -91,10 +91,11 @@
 * [Edit Distance](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/3_edit_distance/edit_distance.cpp):
    The edit distance between two strings is the minimum number of operations (insertions, deletions, and substitutions of symbols) to transform one string into another.
 
-* Longest Common Subsequence of Two Sequences:
+* [Longest Common Subsequence of Two Sequences](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/4_longest_common_subsequence_of_two_sequences/lcs2.cpp):
    Compute the length of a longest common subsequence of two sequences.
 
-* TBD
+* Longest Common Subsequence of Three Sequences:
+   Compute the length of a longest common subsequence of three sequences.
 
 ### Dynamic Programming II
 
