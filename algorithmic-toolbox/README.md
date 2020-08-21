@@ -14,7 +14,7 @@
 ### Section 2: Algorithmic Warm-up
 
 * [Fibonacci Number](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/1_fibonacci_number/fibonacci.cpp):
-   Given an integer n, find the n-th Fibonacci number F_n.
+   Given an integer `n`, find the n-th Fibonacci number `F_n`.
 
 * [Last Digit of a Large Fibonacci Number](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp):
    Find the last digit of n-th Fibonacci number.
@@ -26,19 +26,19 @@
    The **least common multiple** of two positive integers a and b is the least positive integer m that is divisible by both a and b.
 
 * [Fibonacci huge](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/5_fibonacci_number_again/fibonacci_huge.cpp):
-   Given two integers n and m, output F(n) mod m (that is, the remainder of F(n) when divided by m).
+   Given two integers `n` and `m`, output `F(n) mod m` (that is, the remainder of F(n) when divided by m).
 
 * [Last Digit of the Sum of Fibonacci Numbers](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp)
 
 * [Last digit of a Partial Sum of Fibonacci Numbers](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/7_last_digit_of_the_fibonacci_partial_sum/fibonacci_partial_sum.cpp):
-   Given two non-negative integers m and n, where m <= n, find the last digit of the sum F_m + F_m+1 + ... + F_n.
+   Given two non-negative integers `m` and `n`, where `m <= n`, find the last digit of the sum F_m + F_m+1 + ... + F_n.
 
 * [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week2/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp)
 
 ### Section 3: Greedy algorithms
 
 * [Money Change](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/1_money_change/change.cpp):
-   Find the minimum number of coins needed to change the input value (an integer) into coins with denominations 1, 5, and 10.
+   Find the minimum number of coins needed to change the input value (an integer) into coins with denominations `1, 5, and 10`.
 
 * [Maximum Value of the Loot](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week3/2_maximum_value_of_the_loot/fractional_knapsack.cpp):
    Fractional knapsack problem.
@@ -74,7 +74,7 @@
 * [Points and Segments](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week4/5_organizing_a_lottery/points_and_segments.cpp):
    Compute, for each point, the number of segments that contain this point.
 
-### Dynamic Programming I
+### Section 5: Dynamic Programming I
 
 * Theory:
   * [Dynamic Programming](https://www.dropbox.com/s/qxzh146jd72188d/dynprog.pdf) slides;
@@ -83,10 +83,10 @@
   * [Longest common subsequence](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html) by David Galles (note the longest common subsequence problem is a special case of the edit distance problem where we allow insertions and deletions only).
 
 * [Money Change](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/1_money_change_again/change_dp.cpp):
-   Dynamic Programming Approach: Provide hhe minimum number of coins with denominations 1, 3, 4 that changes money.
+   Dynamic Programming Approach: Provide hhe minimum number of coins with denominations `1, 3, 4` that changes money.
 
 * [Primitive Calculator](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/2_primitive_calculator/primitive_calculator.cpp):
-   Given a positive integer n, find the minimum number of operations needed to obtain the number n starting from the number 1.
+   Given a positive integer `n`, find the minimum number of operations needed to obtain the number `n` starting from the number 1.
 
 * [Edit Distance](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/3_edit_distance/edit_distance.cpp):
    The edit distance between two strings is the minimum number of operations (insertions, deletions, and substitutions of symbols) to transform one string into another.
@@ -94,10 +94,13 @@
 * [Longest Common Subsequence of Two Sequences](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/4_longest_common_subsequence_of_two_sequences/lcs2.cpp):
    Compute the length of a longest common subsequence of two sequences.
 
-* Longest Common Subsequence of Three Sequences:
+* [Longest Common Subsequence of Three Sequences](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week5/5_longest_common_subsequence_of_three_sequences/lcs3.cpp):
    Compute the length of a longest common subsequence of three sequences.
 
-### Dynamic Programming II
+### Section 6: Dynamic Programming II
+
+* Maximum Amount of Gold:
+   Given `n` gold bars, find the maximum weight of gold that fits into a bag of capacity `W`.
 
 * TBD
 
