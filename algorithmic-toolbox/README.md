@@ -99,8 +99,11 @@
 
 ### Section 6: Dynamic Programming II
 
-* Maximum Amount of Gold:
+* [Maximum Amount of Gold](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/algorithmic-toolbox/week6/1_maximum_amount_of_gold/knapsack.cpp):
    Given `n` gold bars, find the maximum weight of gold that fits into a bag of capacity `W`.
+
+* Partitioning Souvenirs:
+   Output 1, if it possible to partition v_1, v_2, ... , v_n into `three` subsets with equal sums, and 0 otherwise.
 
 * TBD
 
