@@ -2,7 +2,6 @@
 
 #include "utils/utils.h"
 
-#include "arrays/max_consecutive_ones.h"
 #include "arrays/squares_sorted_array.h"
 #include "arrays/merge_sorted_array.h"
 #include "arrays/remove_element.h"
@@ -16,12 +15,6 @@
 
 
 int main() {
-  /// 01: arrays
-  /// Max Consecutive Ones
-  std::vector<int> v_input_01 = {1, 0, 1, 1, 0, 1};
-  auto ret_01 = findMaxConsecutiveOnes(v_input_01);
-  std::cout << "arrays | 01 | findMaxConsecutiveOnes | res = " << ret_01 << std::endl;
-
   /// 03: arrays
   /// Squares of a Sorted Array: N*log(N)
   std::vector<int> v_input_03 = {-5, -3, -1, 0, 2, 3, 7};
