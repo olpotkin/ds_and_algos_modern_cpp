@@ -3,9 +3,7 @@
 #include "utils/utils.h"
 
 #include "arrays/max_consecutive_ones.h"
-#include "arrays/even_num_digits.h"
 #include "arrays/squares_sorted_array.h"
-#include "arrays/duplicate_zeros.h"
 #include "arrays/merge_sorted_array.h"
 #include "arrays/remove_element.h"
 
@@ -24,12 +22,6 @@ int main() {
   auto ret_01 = findMaxConsecutiveOnes(v_input_01);
   std::cout << "arrays | 01 | findMaxConsecutiveOnes | res = " << ret_01 << std::endl;
 
-  /// 02: arrays
-  /// Find Numbers with Even Number of Digits
-  std::vector<int> v_input_02 = {10, 123, 1, 1234, 12345, 123456};
-  auto ret_02 = findNumbers(v_input_02);
-  std::cout << "arrays | 02 | findNumbers | res = " << ret_02 << std::endl;
-
   /// 03: arrays
   /// Squares of a Sorted Array: N*log(N)
   std::vector<int> v_input_03 = {-5, -3, -1, 0, 2, 3, 7};
@@ -43,13 +35,6 @@ int main() {
   auto ret_04 = sortedSquares2Pointers(v_input_04);
   std::cout << "arrays | 04 | sortedSquares2Pointers | res = ";
   PrintVector(ret_04);
-
-  /// 05: arrays
-  /// Duplicate Zeros (in-place)
-  std::vector<int> v_input_05 = {3, 1, 2, 0, 0, 0, 0, 3};
-  DuplicateZero(v_input_05);
-  std::cout << "arrays | 05 | Duplicate Zeros | res = ";
-  PrintVector(v_input_05);
 
   /// 06: arrays
   /// Merge Sorted Arrays (in-place)
@@ -106,7 +91,6 @@ int main() {
   std::vector<int> v_input_13 = {101, 5, 3, 4, 7, 6, 1, 0, 2, 100};
   auto ret_13 = Selection(v_input_13, 5);
   std::cout << "sort | 13 | Selection (N-th smallest) | res = " << ret_13 << std::endl;
-
 
   return 0;
 }
