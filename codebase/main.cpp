@@ -3,7 +3,6 @@
 #include "utils/utils.h"
 
 #include "arrays/squares_sorted_array.h"
-#include "arrays/merge_sorted_array.h"
 #include "arrays/remove_element.h"
 
 #include "sort/selection_sort.h"
@@ -28,14 +27,6 @@ int main() {
   auto ret_04 = sortedSquares2Pointers(v_input_04);
   std::cout << "arrays | 04 | sortedSquares2Pointers | res = ";
   PrintVector(ret_04);
-
-  /// 06: arrays
-  /// Merge Sorted Arrays (in-place)
-  std::vector<int> v_input_06_1 = {4, 14, 0, 0};
-  std::vector<int> v_input_06_2 = {1, 2};
-  mergeSortedArray(v_input_06_1, 1, v_input_06_2, 0);
-  std::cout << "arrays | 06 | MergeSortedArray | res = ";
-  PrintVector(v_input_06_1);
 
   /// 07: arrays
   /// Remove Elements from Array (in-place)
