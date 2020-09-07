@@ -2,8 +2,6 @@
 
 #include "utils/utils.h"
 
-#include "arrays/squares_sorted_array.h"
-
 #include "sort/selection_sort.h"
 #include "sort/insertion_sort.h"
 #include "sort/shell_sort.h"
@@ -13,20 +11,6 @@
 
 
 int main() {
-  /// 03: arrays
-  /// Squares of a Sorted Array: N*log(N)
-  std::vector<int> v_input_03 = {-5, -3, -1, 0, 2, 3, 7};
-  auto ret_03 = sortedSquares(v_input_03);
-  std::cout << "arrays | 03 | sortedSquares | res = ";
-  PrintVector(ret_03);
-
-  /// 04: arrays
-  /// Squares of a Sorted Array with 2 pointers: N
-  std::vector<int> v_input_04 = {-3, -2, 0, 1, 2};
-  auto ret_04 = sortedSquares2Pointers(v_input_04);
-  std::cout << "arrays | 04 | sortedSquares2Pointers | res = ";
-  PrintVector(ret_04);
-  
   /// 08: sort
   /// Selection Sort
   std::vector<int> v_input_08 = {6, 5, 4, 3, 8, 9, 123, 0, 12, 6, 1, 3, 7};
