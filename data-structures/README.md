@@ -5,8 +5,8 @@
 
 ### Section 1: Basic Data Structures
 
-* [TBD](https://tbd):
-   TBD.
+* [Check brackets in the code](https://tbd):
+   If the code in S uses brackets correctly, output “Success" (without the quotes). Otherwise, output the 1-based index of the first unmatched closing bracket, and if there are no unmatched closing brackets, output the 1-based index of the first unmatched opening bracket.
 
 ### Section 2: Dynamic Arrays and Amortized Analysis
 
