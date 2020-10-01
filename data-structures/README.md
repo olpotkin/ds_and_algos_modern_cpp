@@ -13,8 +13,11 @@
 
 ### Section 2: Priority Queues and Disjoint Sets
 
-* [Convert array into heap](TBD)
+* [Convert array into heap](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week2/1_make_heap/build_heap.cpp)
    Convert an array of integers into a heap.
+
+* [Parallel processing](TBD)
+   Determine for each job which thread will process it and when will it start processing.
 
 ### Section 3: Hash Tables
 
