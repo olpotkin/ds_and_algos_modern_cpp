@@ -16,14 +16,18 @@
 * [Convert array into heap](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week2/1_make_heap/build_heap.cpp)
    Convert an array of integers into a heap.
 
-* [Parallel processing](TBD)
+* [Parallel processing](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week2/2_job_queue/job_queue.cpp)
    Determine for each job which thread will process it and when will it start processing.
 
 ### Section 3: Hash Tables
 
-### Section 4: Binary Search Trees
+* [Phone book](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week3/1_phone_book/phone_book.cpp)
+   Implement a simple phone book manager using hash tables.
 
-### Section 5: Binary Search Trees 2
+* [Hashing with chains](TBD)
+   Implement a hash table using the chaining scheme.
+
+### Section 4: Binary Search Trees
 
 ## Build instructions
 
