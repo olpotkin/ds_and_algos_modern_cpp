@@ -11,6 +11,9 @@
 * [Compute tree height](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week1/2_tree_height/tree-height.cpp):
    Output the height of the tree (optimal solution is required).
 
+* [Network packet processing simulation](TBD)
+   Implement a program to simulate the processing of network packets.
+
 ### Section 2: Priority Queues and Disjoint Sets
 
 * [Convert array into heap](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week2/1_make_heap/build_heap.cpp)
@@ -24,7 +27,7 @@
 * [Phone book](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week3/1_phone_book/phone_book.cpp)
    Implement a simple phone book manager using hash tables.
 
-* [Hashing with chains](TBD)
+* [Hashing with chains](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week3/2_hash_chains/hash_chains.cpp)
    Implement a hash table using the chaining scheme.
 
 ### Section 4: Binary Search Trees
