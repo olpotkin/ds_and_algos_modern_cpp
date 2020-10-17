@@ -11,7 +11,7 @@
 * [Compute tree height](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week1/2_tree_height/tree-height.cpp):
    Output the height of the tree (optimal solution is required).
 
-* [Network packet processing simulation](TBD)
+* [Network packet processing simulation](https://github.com/olpotkin/ds_and_algos_modern_cpp/tree/master/data-structures/week1/3_network_simulation)
    Implement a program to simulate the processing of network packets.
 
 ### Section 2: Priority Queues and Disjoint Sets
@@ -31,6 +31,9 @@
    Implement a hash table using the chaining scheme.
 
 ### Section 4: Binary Search Trees
+
+* [Binary tree traversals](TBD)
+   Implement in-order, pre-order and post-order traversals of a binary tree.
 
 ## Build instructions
 
