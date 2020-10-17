@@ -32,8 +32,11 @@
 
 ### Section 4: Binary Search Trees
 
-* [Binary tree traversals](TBD)
+* [Binary tree traversals](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week4/1_tree_traversals/tree-orders.cpp)
    Implement in-order, pre-order and post-order traversals of a binary tree.
+
+* [Is it a binary search tree?](TBD)
+   Test whether a binary search tree data structure from some input was done correctly.
 
 ## Build instructions
 
