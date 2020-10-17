@@ -35,8 +35,11 @@
 * [Binary tree traversals](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week4/1_tree_traversals/tree-orders.cpp)
    Implement in-order, pre-order and post-order traversals of a binary tree.
 
-* [Is it a binary search tree?](TBD)
+* [Is it a binary search tree?](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week4/2_is_bst/is_bst.cpp)
    Test whether a binary search tree data structure from some input was done correctly.
+
+* [Is it a binary search tree? Hard version.](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/data-structures/week4/3_is_bst_advanced/is_bst_hard.cpp)
+   Test whether a binary search tree data structure from some input was done correctly, but for a more general case, when binary search tree may contain equal keys.
 
 ## Build instructions
 
