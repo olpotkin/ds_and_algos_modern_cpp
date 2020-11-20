@@ -13,8 +13,11 @@
 
 ### Section 2: Decomposition of Graphs II
 
-* [Checking Consistency of CS Curriculum](tbd):
+* [Checking Consistency of CS Curriculum](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week2/1_cs_curriculum/acyclicity.cpp):
    Check whether a given directed graph with n vertices and m edges contains a cycle.
+
+* [Determining an Order of Courses](tbd):
+   Compute a topological ordering of a given directed acyclic graph (DAG) with n vertices and m edges.
 
 ## Build instructions
 
