@@ -3,18 +3,18 @@
 
 ## Contents
 
-### Section 1: Decomposition of Graphs
+### Section 1: Decomposition of Graphs I
 
 * [Finding an Exit from a Maze](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week1/1_finding_exit_from_maze/reachability.cpp):
    Given an undirected graph and two distinct vertices _u_ and _v_, check if there is a path between _u_ and _v_.
 
-* [Adding Exits to a Maze](tbd):
+* [Adding Exits to a Maze](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week1/2_adding_exits_to_maze/connected_components.cpp):
    Given an undirected graph with n vertices and m edges, compute the number of connected components in it.
 
-### Section 2: TBD
+### Section 2: Decomposition of Graphs II
 
-* [TBD](tbd):
-   TBD.
+* [Checking Consistency of CS Curriculum](tbd):
+   Check whether a given directed graph with n vertices and m edges contains a cycle.
 
 ## Build instructions
 
