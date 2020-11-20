@@ -16,8 +16,13 @@
 * [Checking Consistency of CS Curriculum](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week2/1_cs_curriculum/acyclicity.cpp):
    Check whether a given directed graph with n vertices and m edges contains a cycle.
 
-* [Determining an Order of Courses](tbd):
+* [Determining an Order of Courses](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week2/2_order_of_courses/toposort.cpp):
    Compute a topological ordering of a given directed acyclic graph (DAG) with n vertices and m edges.
+
+### Section 3: Paths in Graphs
+
+* [Breadth first search (minimum number of flight segments)](TBD):
+   Given an undirected graph with _n_ vertices and _m_ edges and two vertices _u_ and _v_, compute the length of a shortest path between _u_ and _v_ (that is, the minimum number of edges in a path from _u_ to _v_).
 
 ## Build instructions
 
