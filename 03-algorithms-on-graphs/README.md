@@ -26,8 +26,11 @@
 
 ### Section 4: Paths in Graphs II
 
+* [Computing the Minimum Cost of a Flight](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week4/1_minimum_flight_cost/dijkstra.cpp):
+   Given an directed graph with positive edge weights and with _n_ vertices and _m_ edges as well as two vertices _u_ and _v_, compute the weight of a shortest path between _u_ and _v_ (that is, the minimum total weight of a path from _u_ to _v_).
+
 * [Exchanging Money Optimally](TBD):
-   Given an directed graph with possibly negative edge weights and with n vertices and m edges as well as its vertex s, compute the length of shortest paths from s to all other vertices of the graph.
+   Given an directed graph with possibly negative edge weights and with _n_ vertices and _m_ edges as well as its vertex _s_, compute the length of shortest paths from _s_ to all other vertices of the graph.
 
 ## Build instructions
 
