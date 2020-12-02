@@ -19,10 +19,15 @@
 * [Determining an Order of Courses](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week2/2_order_of_courses/toposort.cpp):
    Compute a topological ordering of a given directed acyclic graph (DAG) with n vertices and m edges.
 
-### Section 3: Paths in Graphs
+### Section 3: Paths in Graphs I
 
-* [Breadth first search (minimum number of flight segments)](TBD):
+* [Breadth first search (minimum number of flight segments)](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week3/1_flight_segments/bfs.cpp):
    Given an undirected graph with _n_ vertices and _m_ edges and two vertices _u_ and _v_, compute the length of a shortest path between _u_ and _v_ (that is, the minimum number of edges in a path from _u_ to _v_).
+
+### Section 4: Paths in Graphs II
+
+* [Exchanging Money Optimally](TBD):
+   Given an directed graph with possibly negative edge weights and with n vertices and m edges as well as its vertex s, compute the length of shortest paths from s to all other vertices of the graph.
 
 ## Build instructions
 
