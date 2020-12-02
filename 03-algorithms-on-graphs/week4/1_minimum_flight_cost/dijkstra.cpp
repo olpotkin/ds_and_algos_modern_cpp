@@ -29,9 +29,9 @@ struct Node {
 
 
 struct cmp {
-	bool operator()(const Node& a, const Node& b) {
-		return a.distance > b.distance;
-	}
+  bool operator()(const Node& a, const Node& b) {
+    return a.distance > b.distance;
+  }
 };
 
 
