@@ -34,8 +34,13 @@
 
 ### Section 5: Minimum Spanning Trees
 
-* [Building Roads to Connect Cities](TBD):
+* [Building Roads to Connect Cities](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/03-algorithms-on-graphs/week5/1_connecting_points/connecting_points.cpp):
    The goal is to build roads between some pairs of the given cities such that there is a path between any two cities and the total length of the roads is minimized.
+
+### Section 6: Advanced Shortest Paths
+
+* [Compute Distance Faster Using Coordinates](TBD):
+   Compute the distance between several pairs of nodes in the network.
 
 ## Build instructions
 
