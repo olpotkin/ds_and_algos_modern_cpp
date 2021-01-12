@@ -8,13 +8,18 @@
 * [Construct a Trie from a Collection of Patterns](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week1/1-trie/trie.cpp):
    Find all occurrences of a collection of patterns in a text.
 
-* [Implement TrieMatching](TBD):
+* [Implement TrieMatching](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week1/2-trie_matching/trie_matching.cpp):
    Implement TrieMatching algorithm.
+
+* [Extend TrieMatching](TBD):
+   Extend TrieMatching algorithm so that it handles correctly cases when one of the patterns is a prefix of another one.
+
+### Section 2: Burrows-Wheeler Transform and Suffix Arrays
 
 * [TBD](TBD):
    tbd.
 
-### Section 2: Burrows-Wheeler Transform and Suffix Arrays
+### Section 3: Constructing Suffix Arrays and Suffix Trees
 
 * [TBD](TBD):
    tbd.
