@@ -11,10 +11,13 @@
 * [Implement TrieMatching](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week1/2-trie_matching/trie_matching.cpp):
    Implement TrieMatching algorithm.
 
-* [Extend TrieMatching](TBD):
+* [Extend TrieMatching](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week1/3-trie_matching_extended/trie_matching_extended.cpp):
    Extend TrieMatching algorithm so that it handles correctly cases when one of the patterns is a prefix of another one.
 
 ### Section 2: Burrows-Wheeler Transform and Suffix Arrays
+
+* [Construct the Burrows–Wheeler Transform of a String](TBD):
+   Construct the Burrows–Wheeler Transform of a String.
 
 * [TBD](TBD):
    tbd.
