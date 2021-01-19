@@ -28,13 +28,13 @@ std::string BWT(const std::string& text) {
 
   std::vector<std::string> m(text.size());
   for (int i = 0; i < m.size(); ++i) {
-  	m[i] = text.substr(i) + text.substr(0, i);
+    m[i] = text.substr(i) + text.substr(0, i);
   }
 
   std::sort(m.begin(), m.end());
 
   for (int i = 0; i < m.size(); ++i) {
-  	result += m[i][m.size() - 1];
+    result += m[i][m.size() - 1];
   }
 
   return result;

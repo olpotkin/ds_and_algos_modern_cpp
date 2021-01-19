@@ -16,11 +16,11 @@
 
 ### Section 2: Burrows-Wheeler Transform and Suffix Arrays
 
-* [Construct the Burrows–Wheeler Transform of a String](TBD):
+* [Construct the Burrows–Wheeler Transform of a String](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week2/1-bwt/bwt.cpp):
    Construct the Burrows–Wheeler Transform of a String.
 
-* [TBD](TBD):
-   tbd.
+* [Reconstruct a String from its Burrows–Wheeler Transform](TBD):
+   Reconstruct a String from its Burrows–Wheeler Transform.
 
 ### Section 3: Constructing Suffix Arrays and Suffix Trees
 
