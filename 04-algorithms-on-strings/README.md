@@ -27,6 +27,9 @@
 
 ### Section 3: Constructing Suffix Arrays and Suffix Trees
 
+* [Find All Occurrences of a Pattern in a String](TBD):
+   How many times one string occurs as a substring of another?
+
 * [TBD](TBD):
    tbd.
 
