@@ -30,7 +30,7 @@
 * [Find All Occurrences of a Pattern in a String](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week3/1-kmp/kmp.cpp):
    How many times one string occurs as a substring of another?
 
-* [Construct the Suffix Array of a Long String](TBD):
+* [Construct the Suffix Array of a Long String](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/04-algorithms-on-strings/week3/2-suffix_array_long/suffix_array_long.cpp):
    The goal in this problem is to construct the suffix array of a given string again, but this time for a longer string. This will require you to implement an efficient algorithm.
 
 ## Build instructions
