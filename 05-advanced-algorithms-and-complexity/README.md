@@ -5,13 +5,16 @@
 
 ### Section 1: Flows in Networks
 
-* [Evacuating People](https://tbd):
+* [Evacuating People](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week1/1-evacuation/evacuation.cpp):
    Apply an algorithm for finding maximum flow in a network to determine how fast people can be evacuated from the given city.
+
+* [Assigning Airline Crews to Flights](https://tbd):
+   Apply an algorithm for finding maximum matching in a bipartite graph to assign airline crews to flights in the most efficient way.
+
+### Section 2: Linear Programming
 
 * [TBD](https://tbd):
    tbd
-
-### Section 2: Linear Programming
 
 ### Section 3: NP-complete Problems
 
