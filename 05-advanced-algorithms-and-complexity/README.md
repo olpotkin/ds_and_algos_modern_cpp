@@ -13,17 +13,18 @@
 
 ### Section 2: Linear Programming
 
-* [Infer Energy Values of Ingredients](https://tbd):
+* [Infer Energy Values of Ingredients](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week2/1-energy_values/energy_values.cpp):
    Apply Gaussian Elimination to infer the energy values of ingredients given a restaurant menu with calorie counts and ingredient lists provided for each item.
+
+* [Optimal Diet Problem](https://tbd):
+   Шmplement an algorithm for solving linear programming with only a few inequalities and apply it to determine the optimal diet.
+
+### Section 3: NP-complete Problems
 
 * [TBD](https://tbd):
    tbd
 
-### Section 3: NP-complete Problems
-
 ### Section 4: Coping with NP-completeness
-
-### Section 5: Streaming Algorithms
 
 ## Build instructions
 
