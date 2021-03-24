@@ -16,10 +16,13 @@
 * [Infer Energy Values of Ingredients](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week2/1-energy_values/energy_values.cpp):
    Apply Gaussian Elimination to infer the energy values of ingredients given a restaurant menu with calorie counts and ingredient lists provided for each item.
 
-* [Optimal Diet Problem](https://tbd):
+* [Optimal Diet Problem](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week2/2-diet/diet.cpp):
    Шmplement an algorithm for solving linear programming with only a few inequalities and apply it to determine the optimal diet.
 
 ### Section 3: NP-complete Problems
+
+* [Assign Frequencies to the Cells of a GSM Network](https://tbd):
+   Learn to reduce the real-world problem about assigning frequencies to the transmitting towers of the cells in a GSM network to a problem of proper coloring a graph into 3 colors. Then design and implement an algorithm to reduce this problem to an instance of SAT.
 
 * [TBD](https://tbd):
    tbd
