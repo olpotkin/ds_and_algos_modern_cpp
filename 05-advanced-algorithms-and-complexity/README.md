@@ -29,11 +29,11 @@
 
 ### Section 4: Coping with NP-completeness
 
-* [Integrated Circuit Design](https://tbd):
+* [Integrated Circuit Design](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week4/1-circuit_design/circuit_design.cpp):
    Determine how to connect the modules of an integrated circuit with wires so that all the wires can be routed on the same layer of the circuit.
 
-* [TBD](https://tbd):
-   tbd
+* [Plan a Fun Party](https://tbd):
+   Design and implement an efficient algorithm to plan invite the coolest people from the company to a party in such a way that everybody is relaxed, because the direct boss of any invited person is not invited.
 
 ## Build instructions
 
