@@ -24,10 +24,13 @@
 * [Assign Frequencies to the Cells of a GSM Network](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week3/1-gsm_network/gsm_network.cpp):
    Learn to reduce the real-world problem about assigning frequencies to the transmitting towers of the cells in a GSM network to a problem of proper coloring a graph into 3 colors. Then design and implement an algorithm to reduce this problem to an instance of SAT.
 
-* [Cleaning the Apartment](https://tbd):
+* [Cleaning the Apartment](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/05-advanced-algorithms-and-complexity/week3/2-cleaning_apartment/cleaning_apartment.cpp):
    Learn to determine whether it is possible to clean an apartment after a party without leaving any traces of the party. Learn how to reduce it to the classic Hamiltonian Path problem, and then design and implement an efficient algorithm to reduce it to SAT.
 
 ### Section 4: Coping with NP-completeness
+
+* [Integrated Circuit Design](https://tbd):
+   Determine how to connect the modules of an integrated circuit with wires so that all the wires can be routed on the same layer of the circuit.
 
 * [TBD](https://tbd):
    tbd
