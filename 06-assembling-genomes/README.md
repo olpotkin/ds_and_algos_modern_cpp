@@ -17,7 +17,7 @@
 
 ### Section 3: Genome Assembly Faces Real Sequencing Data
 
-* [Finding a Circulation in a Network](https://tbd):
+* [Finding a Circulation in a Network](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/06-assembling-genomes/week3/01-circulation.cpp):
    Given a network with lower bounds and capacities on edges, find a circulation if it exists.
 
 * [Selecting the Optimal k-mer Size](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/06-assembling-genomes/week3/02-optimal-kmer-size.cpp):
