@@ -1,4 +1,3 @@
-
 # Solutions for the [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes?specialization=data-structures-algorithms) course
 
 ## Contents
@@ -18,11 +17,11 @@
 
 ### Section 3: Genome Assembly Faces Real Sequencing Data
 
-* [Selecting the Optimal k-mer Size](https://tbd):
-   Given a list of error-free reads, return an integer k such that, when a de Bruijn graph is created from the k-length fragments of the reads, the de Bruijn graph has a single possible Eulerian Cycle.
+* [Finding a Circulation in a Network](https://tbd):
+   Given a network with lower bounds and capacities on edges, find a circulation if it exists.
 
-* [TBD](https://tbd):
-   tbd
+* [Selecting the Optimal k-mer Size](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/06-assembling-genomes/week3/02-optimal-kmer-size.cpp):
+   Given a list of error-free reads, return an integer k such that, when a de Bruijn graph is created from the k-length fragments of the reads, the de Bruijn graph has a single possible Eulerian Cycle.
 
 ## Build instructions
 
