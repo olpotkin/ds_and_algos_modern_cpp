@@ -13,10 +13,13 @@
 * [Puzzle Assembly](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/06-assembling-genomes/week2/01-puzzle-assemply.cpp):
    Consider a square puzzle consisting of n-by-n square pieces, where each square piece has a single color on each of its four edges.
 
-* [Finding an Eulerian Cycle in Directed Graph](https://tbd):
+* [Finding an Eulerian Cycle in Directed Graph](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/06-assembling-genomes/week2/02-eulerian-cycle.cpp):
    Given a directed graph, find an Eulerian cycle in the graph or report that none exists.
 
 ### Section 3: Genome Assembly Faces Real Sequencing Data
+
+* [Selecting the Optimal k-mer Size](https://tbd):
+   Given a list of error-free reads, return an integer k such that, when a de Bruijn graph is created from the k-length fragments of the reads, the de Bruijn graph has a single possible Eulerian Cycle.
 
 * [TBD](https://tbd):
    tbd
