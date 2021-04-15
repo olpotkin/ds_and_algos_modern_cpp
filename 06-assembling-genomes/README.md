@@ -10,11 +10,11 @@
 
 ### Section 2: Assembling Genomes Using de Bruijn Graphs
 
-* [Puzzle Assembly](https://tbd):
+* [Puzzle Assembly](https://github.com/olpotkin/ds_and_algos_modern_cpp/blob/master/06-assembling-genomes/week2/01-puzzle-assemply.cpp):
    Consider a square puzzle consisting of n-by-n square pieces, where each square piece has a single color on each of its four edges.
 
-* [TBD](https://tbd):
-   tbd
+* [Finding an Eulerian Cycle in Directed Graph](https://tbd):
+   Given a directed graph, find an Eulerian cycle in the graph or report that none exists.
 
 ### Section 3: Genome Assembly Faces Real Sequencing Data
 
